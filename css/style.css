@@ -173,14 +173,23 @@ font-family:sans-serif ;
 
 @media only screen and (max-width: 1430px){
   body{
-    padding: 0px 0px 0px 0px;
- 
+ padding: 70px 40px 60px 40px;
   }
 }
 
 
 @media  (max-width: 910px){
+
+      h1{
+  
+    text-align: center;
+       font-family: 'Bree Serif', serif;
+    font-weight: 500;
+    font-size: 21px;
  
+}
+  
+
 .btn1{
   padding: 10px 20px;
   border: 1px solid whitesmoke;
