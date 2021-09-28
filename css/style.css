@@ -30,7 +30,6 @@ body{
 }
 
  .para{
-   display: flex;
      margin-top: 0;
    margin-left: 150px;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
