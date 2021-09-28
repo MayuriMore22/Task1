@@ -190,17 +190,17 @@ font-family:sans-serif ;
   color: black;
   cursor: pointer;
 }
+    
+  
+ 
 .form .forgetlabel{
-  margin-left: 70px;
-  font-size: 15px;
+  display: flex;
+    font-size: 15px;
   line-height: 30px;
   font-weight: 500; 
-  padding: 10px 1px;
-  
+
   font-family: 'Bree Serif', serif;
   
 }
 
-
-    
   }
