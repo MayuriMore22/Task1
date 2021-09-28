@@ -171,18 +171,3 @@ font-family:sans-serif ;
 }
 
 
-@media screen and (max-width: 900px){
-
-    .para{
-        margin-top: 0;
-      margin-left: 98px;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   }
-   
-   .para1{
-      color:bisque;  
-     font-weight: 300;  
-     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   }
-   
-}
