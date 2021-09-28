@@ -20,7 +20,6 @@ body{
     max-width: 400px;
     width: 100%;
     background-color:lightsteelblue;
-  
     padding: 25px 30px 40px 20px;
  }
 
@@ -31,6 +30,7 @@ body{
 }
 
  .para{
+   display: flex;
      margin-top: 0;
    margin-left: 150px;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -169,5 +169,4 @@ font-family:sans-serif ;
     border:1px solid crimson;
      background-color:crimson;
 }
-
 
